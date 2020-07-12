@@ -1,0 +1,3 @@
+[submodule "libcxxmv"]
+	path = libcxxmv
+	url = git@github.com:psina-im/libcxxmv.git
